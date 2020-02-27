@@ -1,2 +1,2 @@
-# Blackjack_FalBakma
-Blackjack Kart Oyunu ve Fal Bakma Konsol Uygulaması
+# Fortune Telling and Blackjack
+Console Applications
